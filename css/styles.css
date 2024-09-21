@@ -1,0 +1,13 @@
+.container {
+  padding-inline: 2rem;
+  margin-inline: auto;
+}
+
+.btn {
+  padding-inline: 8px;
+  padding-block: 12px;
+  background: transparent;
+  border: 0;
+  border-radius: 6px;
+  cursor: pointer;
+}
